@@ -1,6 +1,7 @@
 ### Hi there 
-I am Vardhan Dongre and you are viewing my github profile 😄
-- 🔭 I’m currently working on 
+I am Vardhan Dongre and you are viewing my github profile 😄  
+  
+🔭 I’m currently working on: 
 - SLAM
 - 3D reconstruction and mapping
 - Sensor fusion
