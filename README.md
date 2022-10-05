@@ -7,7 +7,7 @@ I am Vardhan Dongre and you are viewing my github profile 😄
 - Sensor fusion
 - General Computer Vision
 
-📫 How to reach me: You can reach at my email: vdongre2@illinois.edu
+📫 How to reach me: You can reach at my email: vdongre2@illinois.edu  
 Here is a link to my github profile: https://vardhandongre.github.io/ 
 
 <!--
