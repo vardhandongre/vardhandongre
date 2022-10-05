@@ -1,4 +1,12 @@
 ### Hi there 👋
+I am Vardhan Dongre and you are viewing my github profile :) 
+🔭 I’m currently working on 
+- SLAM
+- 3D reconstruction and mapping
+- Sensor fusion
+- General Computer Vision
+
+📫 How to reach me: You can reach at my email: vdongre2@illinois.edu
 
 <!--
 **vardhandongre/vardhandongre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
