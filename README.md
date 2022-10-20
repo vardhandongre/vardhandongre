@@ -8,7 +8,7 @@ I am Vardhan Dongre and you are viewing my github profile 😄
 - General Computer Vision
 
 📫 How to reach me: You can reach at my email: vdongre2@illinois.edu  
-My work email: vardhan.dongre@brunswick.com
+My work email: vardhan.dongre@brunswick.com  
 Here is a link to my github profile: https://vardhandongre.github.io/ 
 
 <!--
