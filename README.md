@@ -9,7 +9,7 @@ I am Vardhan Dongre and you are viewing my github profile 😄
 
 📫 How to reach me: You can reach at my email: vdongre2@illinois.edu  
 My work email: vardhan.dongre@brunswick.com  
-Here is a link to my github profile: https://vardhandongre.github.io/ 
+Here is a link to my personal webpage: https://vardhandongre.github.io/ 
 
 <!--
 **vardhandongre/vardhandongre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
