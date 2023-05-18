@@ -4,7 +4,7 @@ I am Vardhan Dongre and you are viewing my github profile 😄
 🔭 I’m currently working on: 
 - SLAM
 - 3D reconstruction and mapping
-- Sensor fusion
+- Multimodal Representation Learning
 - General Computer Vision
 
 📫 How to reach me: You can reach at my email: vdongre2@illinois.edu  
