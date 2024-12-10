@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I’m a Ph.D. student in Computer Science at the U
 ## ✨ Projects and Collaborations
 I actively collaborate on a range of impactful projects. Some highlights include:
 - **Digital Agriculture** with AIFARMS Institute.
-- **Embodied Conversational AI** for seamless interaction between virtual and physical worlds.
-- **Marine Autonomous Vehicles** research at Brunswick Corporation’s I-Jet Lab.
+- **Embodied Conversational AI** with ConvAI Lab for seamless interaction between virtual and physical worlds.
+- **(Marine) Autonomous Vehicles** research at Brunswick Corporation’s I-Jet Lab.
 
 ## 🔗 Connect with Me
 Feel free to explore my repositories or reach out through these channels:
