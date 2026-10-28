@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I’m a Ph.D. student in Computer Science at the University of Illinois Urbana-Champaign (UIUC). 
 
 ## 🛠️ Professional Experience
-- **Applied Scientist Intern** at Amazon Science (Incoming Fall 2026)
+- **Applied Scientist Intern** at Amazon Science (Fall 2026)
 - **Research Scientist Intern** at Adobe Research (Summer 2026)
 - **Research Scientist Intern** at Adobe Research (2025)
 - **AI Research Software Engineer** at Brunswick Corporation (2022–2023)
