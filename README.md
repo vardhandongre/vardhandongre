@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m a Ph.D. student in Computer Science at the U
 ## 🛠️ Professional Experience
 - **Applied Scientist Intern** at Amazon Science (Fall 2026)
 - **Research Scientist Intern** at Adobe Research (Summer 2026)
-- **Research Scientist Intern** at Adobe Research (2025)
+- **Research Scientist Intern** at Adobe Research (Summer, Fall 2025)
 - **AI Research Software Engineer** at Brunswick Corporation (2022–2023)
 - **Computer Vision Engineer Intern** at Brunswick Corporation (2021)
 
